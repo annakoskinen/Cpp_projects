@@ -5,8 +5,7 @@ Ohjelma toteuttaa mysteerimaton, jossa sovelletaan mallintunnistusta
  * Ohjelma etsii mallin esiintymiä matosta.
  * Ohjelma kysyy ensin maton kokoa (leveys ja pituus).
  * Käyttäjältä kysytään myös, täytetäänkö matto (ruudukko) satunnaisesti arvottavilla vai käyttäjän luettelemilla väreillä. 
- * Ensimmäisessä vaihtoehdossa käyttäjältä kysytään satunnaislukugeneraattorin siemenlukua ja jälkimmäisessä häntä pyydetään
- * syöttämään niin monta väriä, kuin matossa on ruutuja, jolloin luetellaan värien alkukirjaimet yhtenä pitkänä merkkijonona.
+ * Ensimmäisessä vaihtoehdossa käyttäjältä kysytään satunnaislukugeneraattorin siemenlukua ja jälkimmäisessä häntä pyydetään syöttämään niin monta väriä, kuin matossa on ruutuja, jolloin luetellaan värien alkukirjaimet yhtenä pitkänä merkkijonona.
  * Joka kierroksella käyttäjältä kysytään etsittävää mallia (neljän merkin/värin muodostamaa merkkijonoa).
  * Ohjelma tulostaa, kuinka monta mallin esiintymää matosta löytyi ja mistä kohdista ne löytyivät.
  * Ohjelma tarkistaa, oliko käyttäjän antamat värikoodit hyväksyttäviä.
