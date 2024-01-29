@@ -6,5 +6,5 @@ Kirjasto projektin kuvaus
  * libraries: tulostaa aakkosjärjestyksessä kaikki kirjastot
  * material: tulostaa aakkosjärjestyksessä parametrinä annetun kirjaston kaikki kirjat
  * books: tulostaa kirjojen nimen aakkosjärjestyksessä kaikki parametrinä annetun kirjaston ja parametrinä annetun tekijän kirjat ja niiden varaustiedot
- * reservable: tulostaa lyhimmän varausjonon parametrinä annetun tekijän ja parametrinä annetun kirjalle ja kaikki kirjastot aakkosjärjestyksessä, joissa on saman pituinen varausjono
+ * reservable: tulostaa lyhyimmän varausjonon parametrinä annetun tekijän ja parametrinä annetun kirjalle ja kaikki kirjastot aakkosjärjestyksessä, joissa on saman pituinen varausjono
  * loanable: tulostaa kaikki kirjat, jotka ovat lainattavissa aakkosjärjestyksessä
