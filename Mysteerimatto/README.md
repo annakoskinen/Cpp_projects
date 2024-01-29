@@ -1,5 +1,6 @@
-Mysteerimatto Ohjelman kuvaus: Ohjelma toteuttaa mysteerimaton, jossa sovelletaan mallintunnistusta
+Mysteerimatto Ohjelman kuvaus:
 
+* Ohjelma toteuttaa mysteerimaton, jossa sovelletaan mallintunnistusta.
 * Matto koostuu erivärisistä ruuduista ja samoin malli, mutta mallin koko on aina 2 x 2, eli se koostuu neljästä väriruudusta.
 * Ohjelma etsii mallin esiintymiä matosta.
 * Ohjelma kysyy ensin maton kokoa (leveys ja pituus).
