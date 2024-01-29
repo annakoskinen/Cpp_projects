@@ -1,2 +1,2 @@
 # Cpp_projects
-I will add C++ projects here throughout the spring as they are completed.
+C++ projects from the spring of 2023 done on a university course.
